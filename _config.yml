@@ -1,0 +1,28 @@
+name: Peaceful Evolution
+favicon: null
+layout_spectrum: 0.8276865191292018
+typography_spectrum: 0.2758702782448381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.04927390348166227
+  lightness: 0.4253619641531259
+  saturation: 0.14624344184994698
+  rhythmicContrast: 0.8284510164521635
+purpose: []
